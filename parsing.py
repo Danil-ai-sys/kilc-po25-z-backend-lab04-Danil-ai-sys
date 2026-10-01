@@ -1,3 +1,7 @@
+Name: Sobar Danil 
+Group: PO 25-Z 
+Date: 1.10.26
+
 def read_request(client):
 
     request = bytearray()

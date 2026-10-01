@@ -1,3 +1,7 @@
+Name: Sobar Danil 
+Group: PO 25-Z 
+Date: 1.10.26
+
 from dataclasses import asdict, dataclass
 import json
 
